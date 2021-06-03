@@ -1,0 +1,184 @@
+{
+    "users": [
+        {
+            "name":"Tom",
+            "email":"tom1@gmail.com",
+            "mobileno":"1111111111",
+            "gender":"Male",
+            "nationality":"Canadian",
+            "isSelected": "false",
+            "id": "1"
+        },
+        {
+            "name":"Alter",
+            "email":"alter1@gmail.com",
+            "mobileno":"2222222222",
+            "gender":"Male",
+            "nationality":"American",
+            "isSelected": "false",
+            "id": "2"
+        },
+        {
+            "name":"Rudolf",
+            "email":"rudolf1@gmail.com",
+            "mobileno":"3333333333",
+            "gender":"Male",
+            "nationality":"Russian",
+            "isSelected": "false",
+            "id": "3"
+        },
+        {
+            "name":"Michael",
+            "email":"michael@gmail.com",
+            "mobileno":"4444444444",
+            "gender":"Male",
+            "nationality":"Ukranian",
+            "isSelected": "false",
+            "id": "4"
+        },
+        {
+            "name":"Ada",
+            "email":"ada1@gmail.com",
+            "mobileno":"5555555555",
+            "gender":"Female",
+            "nationality":"African",
+            "isSelected": "false",
+            "id": "5"
+        },
+        {
+            "name":"Cinthia",
+            "email":"cinthia@gmail.com",
+            "mobileno":"6666666666",
+            "gender":"Female",
+            "nationality":"Persian",
+            "isSelected": "false",
+            "id": "6"
+        },
+        {
+            "name":"Prince",
+            "email":"prince@gmail.com",
+            "mobileno":"7777777777",
+            "gender":"Male",
+            "nationality":"American",
+            "isSelected": "false",
+            "id": "7"
+        },
+        {
+            "name":"Katherine",
+            "email":"katherine@gmail.com",
+            "mobileno":"8888888888",
+            "gender":"Female",
+            "nationality":"Finnish",
+            "isSelected": "false",
+            "id": "8"
+        },
+        {
+            "name":"Prateek",
+            "email":"prateek@gmail.com",
+            "mobileno":"9999999999",
+            "gender":"Male",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "9"
+        },
+        {
+            "name":"Murali",
+            "email":"murali@gmail.com",
+            "mobileno":"1010101010",
+            "gender":"Male",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "10"
+        },
+        {
+            "name":"Pratishtha",
+            "email":"pratishtha@gmail.com",
+            "mobileno":"2030203020",
+            "gender":"Female",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "11"
+        },
+        {
+            "name":"Piyush",
+            "email":"piyush@gmail.com",
+            "mobileno":"9090909090",
+            "gender":"Male",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "12"
+        },
+        {
+            "name":"Mehak",
+            "email":"mehak@gmail.com",
+            "mobileno":"7171717171",
+            "gender":"Female",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "13"
+        },
+        {
+            "name":"Angie",
+            "email":"angie@gmail.com",
+            "mobileno":"1111111111",
+            "gender":"Female",
+            "nationality":"Chinese",
+            "isSelected": "false",
+            "id": "14"
+        },
+        {
+            "name":"Guo Wan",
+            "email":"guowan@gmail.com",
+            "mobileno":"9119911999",
+            "gender":"Male",
+            "nationality":"Chinese",
+            "isSelected": "false",
+            "id": "15"
+        },
+        {
+            "name":"Dipesh",
+            "email":"dipesh@gmail.com",
+            "mobileno":"1234567889",
+            "gender":"Male",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "16"
+        },
+        {
+            "name":"Kapish",
+            "email":"kapish@gmail.com",
+            "mobileno":"0000011111",
+            "gender":"Male",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "17"
+        },
+        {
+            "name":"Riti",
+            "email":"riti@gmail.com",
+            "mobileno":"1233211231",
+            "gender":"Female",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "18"
+        },
+        {
+            "name":"Devna",
+            "email":"devna@gmail.com",
+            "mobileno":"7898789878",
+            "gender":"Female",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "19"
+        },
+        {
+            "name":"Anubhav",
+            "email":"anubhav@gmail.com",
+            "mobileno":"9876544564",
+            "gender":"Male",
+            "nationality":"Indian",
+            "isSelected": "false",
+            "id": "20"
+        }
+    ]
+}
